@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url(img/background.jpg);
+}
+
+#form {
+    width: 100px;
+    text-align: center;
+    float: left;
+;
+
+}
+#fieldset {
+    height: 200px;
+    background-color: #F5F5DC;
+    float: left;
+}
+
+#table,tr,td{
+    background-color: #F5F5DC ;
+    padding: 15px;
+    border: solid ;
+    border-collapse: collapse;
+}   
+
+
+header {
+    height: 30px;
+    width: 100%;
+    background-color: rgb(93, 93, 93);
+}
+
+p {
+    text-align: center;
+}
+
+
